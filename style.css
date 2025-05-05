@@ -83,8 +83,12 @@ h1 {
     transform: scale(1);
 }
 
+.gallery-section {
+    margin-top:3rem 
+}
+
 .gallery {
-    display: block;
+    display: center;
     justify-content: center;
     flex-wrap: wrap;
     gap: 1rem;
